@@ -1,5 +1,3 @@
-"use client";
-
 import { FormProvider } from "~/components/FormContext";
 import "./globals.css";
 import { Inter } from "next/font/google";
